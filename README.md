@@ -1,5 +1,7 @@
 # Algorithm_2017S
-Algorithm analysis assignments \n
+Algorithm analysis assignments
+
+
 HW1 
 
 HW2
